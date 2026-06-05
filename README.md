@@ -9,6 +9,16 @@ This project presents an Airbnb Analytics Dashboard built using Power BI. The da
 - Identify trends and insights for better decision-making
 - Create an interactive and user-friendly dashboard
 
+## Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Measures
+- KPI Development
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+
 ## Tools & Technologies
 - Power BI
 - Power Query
